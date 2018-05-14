@@ -27,7 +27,7 @@ int main(){
             
     cout<<luas<<endl;
     
-    system("pause");
+    // system("pause");
    // return 0;
     
 }
